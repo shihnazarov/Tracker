@@ -1,0 +1,59 @@
+.container{
+  background-color: rgb(237, 236, 236);
+display: flex;
+justify-content: center;
+}
+.containerr{
+  max-width: 1000px;
+}
+.dollor{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.btn{
+  border: 1px solid grey;
+  width: 200px;
+  margin: 1rem;
+  text-align: center;
+  background-color: white;
+}
+
+
+.input{
+  width: 100%;
+  border: none;
+  background-color: white;
+  padding: 1rem;
+}
+
+
+
+.input1{
+  width: 100%;
+  padding: 10px;
+}
+
+
+.Btn{
+  width: 100%;
+  margin: 1rem;
+  background-color: blue;
+  border: none;
+  padding: 1rem;
+  color: white;
+}
+
+.ret{
+  color: green;
+}
+
+.red{
+  color: red;
+}
+
+.heder{
+  display: flex;
+  justify-content: center;
+}
